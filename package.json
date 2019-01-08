@@ -127,13 +127,13 @@
     "tiny-queue": "^0.2.1",
     "uglifyjs-webpack-plugin": "^2.1.1",
     "uuid": "^3.1.0",
-    "uws": "10.148.0",
     "webpack": "^4.28.3",
     "webpack-assets-manifest": "^3.1.1",
     "webpack-bundle-analyzer": "^3.0.3",
     "webpack-cli": "^3.1.2",
     "webpack-merge": "^4.1.5",
-    "websocket.js": "^0.1.12"
+    "websocket.js": "^0.1.12",
+    "ws": "^6.1.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
